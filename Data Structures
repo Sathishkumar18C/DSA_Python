@@ -1,0 +1,31 @@
+Data Structures are ways to organize and store data.
+
+Data Structures 
+----------------------
+1.	Build in Data Structures
+2.	User-defined / Advanced Structures
+
+1.	Built-in Data Structures
+----------------------------------- 
+1.	List
+2.	Tuple
+3.	Set
+4.	Dict
+
+2.	User-defined
+------------------ 
+We have two type linear and non-linear
+
+1.	Linear type
+------------------ 
+1.	Array
+2.	Linked list
+3.	Stack
+4.	Queue
+
+2.	Non-linear
+------------------ 
+5.	Tree
+6.	Graph
+7.	Heap
+8.	Hash table
